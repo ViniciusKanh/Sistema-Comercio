@@ -1,0 +1,11 @@
+C:\Sistema Comercio\SysComercio\CamadaApresentacao\bin\Debug\CamadaApresentacao.dll
+C:\Sistema Comercio\SysComercio\CamadaApresentacao\bin\Debug\CamadaApresentacao.pdb
+C:\Sistema Comercio\SysComercio\CamadaApresentacao\bin\Debug\CamadaNegocio.dll
+C:\Sistema Comercio\SysComercio\CamadaApresentacao\bin\Debug\CamadaDados.dll
+C:\Sistema Comercio\SysComercio\CamadaApresentacao\bin\Debug\CamadaNegocio.pdb
+C:\Sistema Comercio\SysComercio\CamadaApresentacao\bin\Debug\CamadaDados.pdb
+C:\Sistema Comercio\SysComercio\CamadaApresentacao\obj\Debug\CamadaApresentacao.csprojResolveAssemblyReference.cache
+C:\Sistema Comercio\SysComercio\CamadaApresentacao\obj\Debug\CamadaApresentacao.frmCategoria.resources
+C:\Sistema Comercio\SysComercio\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.GenerateResource.Cache
+C:\Sistema Comercio\SysComercio\CamadaApresentacao\obj\Debug\CamadaApresentacao.dll
+C:\Sistema Comercio\SysComercio\CamadaApresentacao\obj\Debug\CamadaApresentacao.pdb
